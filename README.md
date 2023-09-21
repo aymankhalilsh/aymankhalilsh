@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aymankhalilsh
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, HTML, CSS
 - 💞️ I’m looking to collaborate on fullstack development
-- 📫 Reach out on insta @fruktigvarld
+- 📫 Reach out on Linkedin https://www.linkedin.com/in/aymanshaheen92/
 
 <!---
 aymankhalilsh/aymankhalilsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
